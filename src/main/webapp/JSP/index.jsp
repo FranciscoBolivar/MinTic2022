@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Pagina de prueb</title>
+<title>Prueba con github</title>
 </head>
 <body>
 	<h1>ESTO ES UNA PRUEBA</h1>

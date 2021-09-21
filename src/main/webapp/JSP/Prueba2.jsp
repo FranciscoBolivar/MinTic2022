@@ -7,7 +7,7 @@
 <title>PRUEBA2 GITHUB</title>
 </head>
 <body>
-		<h1><u>Men&uacute; de la casa.</u></h1>
+		<h1><u>PRUEBA de nuevo claudia.</u></h1>
 		<!-- Aquí empieza una lista numerada -->
 		<ol>
 			<li>Sopa castellana</li>

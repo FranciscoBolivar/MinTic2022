@@ -5,6 +5,11 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
+<title>Prueba Commit Miguel Duran 21 septiembre</title>
+<title>Prueba Commit Miguel Duran 21 septiembre</title>
+<title>Prueba Commit Miguel Duran 21 septiembre</title>
+<title>Prueba Commit Miguel Duran 21 septiembre</title>
+<title>Prueba Commit Miguel Duran 21 septiembre</title>
 </head>
 <body>
 ><u>Menú de la casa.</u></h1>

@@ -17,6 +17,7 @@
 	<h1>ESTO ES UNA PRUEBA DEL COMMIT DE JAIRO MEDINA</h1>
 	<h1>ESTO ES UNA PRUEBA DEL COMMIT DE JAIRO MEDINA</h1>
 	<h1>ESTO ES UNA PRUEBA DEL COMMIT DE JAIRO MEDINA</h1>
+	<h1>PRUEBA Miguel Duran</h1>
 	<h1>Ingreso  </h1>
 	<h1><u>Menú de la casa.</u></h1>
 		<!-- Aquí empieza la lista principal -->

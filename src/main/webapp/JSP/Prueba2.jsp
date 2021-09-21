@@ -27,6 +27,7 @@
 			<li>Ternera asada</li>
 			<li>Besugo al horno</li>
 			<li>Ternera encebollada</li>
+			<li>Otra prueba Miguel Duran</li>
 		</ol>
 		<!-- Ha terminado la lista numerada -->
 

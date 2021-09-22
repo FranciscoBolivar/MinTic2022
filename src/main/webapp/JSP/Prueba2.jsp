@@ -7,7 +7,9 @@
 <title>PRUEBA2 GITHUB</title>
 </head>
 <body>
-		<h1><u>PRUEBA de nuevo claudia.</u></h1>
+<h1>PRUEBA CLAUDIA 2</h1><h1>NUEVO INTENTO</h1><h1>ESTO ES UNA PRUEBA DEL COMMIT DE JAIRO MEDINA</h1>
+<h1>ESTO ES UNA PRUEBA DEL COMMIT DE JAIRO MEDINA 21 septimbre 13:55 H</h1><h1>ESTO ES UNA PRUEBA DEL COMMIT DE JAIRO MEDINA21 septimbre 13:55 H</h1><h1>ESTO ES UNA PRUEBA DEL COMMIT DE JAIRO MEDINA</h1>
+		<h1><u>Men&uacute; de la casa.</u></h1>
 		<!-- Aquí empieza una lista numerada -->
 		<ol>
 			<li>Sopa castellana</li>
@@ -25,6 +27,7 @@
 			<li>Ternera asada</li>
 			<li>Besugo al horno</li>
 			<li>Ternera encebollada</li>
+			<li>Otra prueba Miguel Duran</li>
 		</ol>
 		<!-- Ha terminado la lista numerada -->
 
